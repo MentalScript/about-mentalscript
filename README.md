@@ -36,14 +36,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mentalscript&show_icons=true&theme=dark&hide_border=true&locale=uk" alt="GitHub Stats">
-</p>
-
----
-
 ### 🌐 Зв'язок та підтримка
 
 Буду радий отримати фідбек щодо моїх проектів! 👇
